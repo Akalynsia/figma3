@@ -12,7 +12,7 @@ const App = () => {
           <img src="./lion.png" alt="lion" />
         </div>
         <div className="flex flex-col items-center justify-center w-[526px] h-[594px] relative right-20 top-5">
-          <div className="font-montserrat font-[700] text-[50px] text-[#000000] mb-10">
+          <div className="font-montserrat font-[700] text-[50px] text-[#8A8A8A] mb-10">
             LOGIN
           </div>
           <form className="flex flex-col gap-4">
